@@ -1,0 +1,33 @@
+
+.crystals{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.crystal{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+.body{
+    background-color: #2e8b57;
+}
+
+.head{
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+
+.rules{
+    font-style: italic;
+}
+
+p{
+    font-size: 15px;
+    font-weight: bold;
+
+}

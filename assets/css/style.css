@@ -7,7 +7,7 @@
 }
 
 .crystal{
-    border: 1px solid black;
+    border: 5px solid black;
     height: 200px;
     width: 200px;
 }
@@ -30,4 +30,8 @@ p{
     font-size: 15px;
     font-weight: bold;
 
+}
+
+.crystal:hover{
+    border: 5px red;
 }

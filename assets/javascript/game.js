@@ -11,6 +11,7 @@ $(document).ready(function(){
         $(".crystals").empty();
         //empties crystal value 
 
+        //i couldn't find free images for download, so i used the links to add my images
         var images = ['http://bereiki.com/wp-content/uploads/2016/02/crystal-amethyst.jpg',
          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvPIKMcUhtiHrD-KmZMMC4FGq_VgdD6_UGZm00TBJFBWAImXQu',
           'https://images-na.ssl-images-amazon.com/images/I/819sOd2ebeL._SY355_.jpg',
